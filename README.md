@@ -4,10 +4,10 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Functions
-	* Parameters
-	* Arguments
-	* `if` statements
+	* Functions: Code that is designed to perform a specific task and can be reused over and over again.
+	* Parameters: Variables that can be used in the function and are set when we call the function.
+	* Arguments: Are the real values passed through the function once it is called.
+	* `if` statements: Specifies a block of code to run if a statement is true.
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
